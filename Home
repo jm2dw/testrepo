@@ -1,0 +1,19 @@
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#Test1">Test1</a></li>
+  <li><a href="#Test2">Test2</a></li>
+</ul>
+
+<div class="main">
+
+</div>
+<p>
+
+Below you will find 3 doors to choose from. Choose which door you would like to go through...
+</p>
+<div class="buttongroup">
+  <button><a href="#choice1">Door 1</a></button>
+   <button><a href="#choice2">Door 2</a></button>
+  <button><a href="#choice3">Door 3</a></button>
+</div>
+
